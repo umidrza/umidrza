@@ -1,7 +1,6 @@
 # Hi, I’m Umid Rza
 ## I'm a Software Developer
 
-- 🌎 I’m interested in **remote jobs**
 - 🔭 I’m currently working on asp.net projects
 - 🚀 I’m looking to collaborate on new projects
 - 📫 How to reach me umidrza4@gmail.com
