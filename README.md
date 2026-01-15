@@ -1,12 +1,14 @@
 # Hi, I’m Umid Rza
-## I'm a Software Developer
+## Software Developer
 
-- 🔭 I’m currently working on asp.net projects
-- 🚀 I’m looking to collaborate on new projects
-- 📫 How to reach me umidrza4@gmail.com
+- 🔭 Currently working on .NET projects**
+- 🚀 Open to **collaborating on new projects**
+- 🧠 Solving algorithmic problems on **LeetCode**
+- 📫 Reach me at **umidrza4@gmail.com**
 
-## Portfolio:
+## 🌐 Portfolio & Profiles
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umidrza/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/umidrza/)
 
-## Languages and Tools:
-![Your Languages](https://skillicons.dev/icons?i=python,js,django,cs,net&theme=dark)
+## 🛠️ Languages and Tools
+![Skills](https://skillicons.dev/icons?i=cs,dotnet,js,python,django&theme=dark)
