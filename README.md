@@ -1,14 +1,14 @@
 # Hi, I’m Umid Rza
 ## Software Developer
 
-- 🔭 Currently working on .NET projects**
+- 🔭 Currently working on **.NET projects**
 - 🚀 Open to **collaborating on new projects**
 - 🧠 Solving algorithmic problems on **LeetCode**
 - 📫 Reach me at **umidrza4@gmail.com**
 
 ## 🌐 Portfolio & Profiles
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umidrza/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/umidrza/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/umidrza/)
 
 ## 🛠️ Languages and Tools
 ![Skills](https://skillicons.dev/icons?i=cs,dotnet,js,python,django&theme=dark)
