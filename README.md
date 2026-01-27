@@ -1,7 +1,7 @@
 # Hi, I’m Umid Rza
 ## Software Developer
 
-- 🔭 Currently working on **.NET projects**
+- 🔭 Currently working on **Java projects**
 - 🚀 Open to **collaborating on new projects**
 - 🧠 Solving algorithmic problems on **LeetCode**
 - 📫 Reach me at **umidrza4@gmail.com**
